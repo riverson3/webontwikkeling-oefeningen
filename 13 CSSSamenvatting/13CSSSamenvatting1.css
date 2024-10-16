@@ -1,0 +1,25 @@
+body{
+    background: silver;
+}
+
+header{
+    background: red;
+    color: silver;
+}
+
+nav{
+    background: green;
+    color: white;
+    float: left;
+    height: 400px;
+    width: 100px;
+    
+}
+
+article{
+    background: white;
+    
+}
+main{
+    background: yellow;
+}

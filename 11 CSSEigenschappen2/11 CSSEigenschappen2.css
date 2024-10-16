@@ -1,0 +1,27 @@
+header{
+    background: yellow;
+    height: 50px;
+}
+
+article{
+    font-family: Verdana;
+    background: blue;
+    color: white;
+}
+
+footer{
+    background: yellow;
+    height: 50px;
+    clear: right
+}
+
+body{
+    background: silver;
+}
+
+nav{
+    background: white;
+    height: 150px;
+    width: 200px;
+    float: right;
+}
